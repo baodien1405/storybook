@@ -1,0 +1,17 @@
+{
+  "menus": {
+    "label": "Menus",
+    "default": [
+      { "title": "Menu 1", "items": [{ "title": "Home", "url": "/" }] },
+      {
+        "title": "Menu 2",
+        "items": [{ "title": "About us", "url": "/about" }]
+      },
+      {
+        "title": "Menu 3",
+        "items": [{ "title": "Contact", "url": "/contact" }]
+      }
+    ],
+    "group": "content"
+  }
+}
